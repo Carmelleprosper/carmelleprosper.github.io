@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(../images/grey_wash_wall.png)
+}
+
+p {
+	font-family: 'Scope One', serif;
+	color: white;
+	text-align: center;
+}
+h1 {
+	font-family: 'Allura', cursive;
+	color: white;
+	font-size: 60px;
+	text-align: center;
+}
+a{
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 250px;
+    text-decoration: none;
+    margin-right: 30px;
+	color:white;
+}
+
+a:hover {
+	color:orangered;
+}
+
+
+div {
+	text-align:center;
+}
+
+div img {
+	text-align: center;
+}
+
+div a {
+	margin: 0;
+}

@@ -1,0 +1,114 @@
+@charset "UTF-8";
+/* CSS Document */
+  
+body {
+
+margin: 0;
+}
+
+body{
+	background-image:url(../images/background.png);
+    background-repeat: no-repeat;
+	background-size:100%;
+	padding:0;
+	position: relative;
+}
+
+#services{
+	background-image: url(../images/background5.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: 587px;
+	padding:0;
+}
+
+h2 {
+	font-family: 'Allura', cursive;
+	font-size: 40px;
+	text-align: center;
+	}
+
+a{
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 250px;
+    text-decoration: none;
+    margin-right: 30px;
+	color:black;
+}
+
+
+#services  img{
+	margin-left: 90px;
+	text-align:center;
+	padding:8px;
+	padding-bottom: 30px;
+	
+}
+
+#button h3 {
+	float:right;
+	margin-top: 477px;
+	margin-right: 200px;
+	background-color:deeppink;
+	color: white;
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+	
+}
+
+#button a:over {
+	opacity:.5;
+}
+
+div {
+	text-align: center;
+}
+
+#portfolio{
+	background-image: url(../images/grey_wash_wall.png);
+	text-align: center;
+	padding:30px;
+}
+
+#portfolio h2{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding:20px;
+}
+
+#services h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 30px;
+	color: deeppink;
+	margin-top: 20px;
+}
+#resume {
+	background-image: url(../images/symphony.png);
+	text-align: center;
+	Padding: 20px;
+}
+
+#resume h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 30px;
+	color: deeppink;
+}
+
+footer {
+	background-color: dimgray;
+	text-align: center;
+	padding: 20px;
+}
+
+div a:hover{
+	opactity:.5
+}
+
+div a {
+	margin:0;
+}
+
+

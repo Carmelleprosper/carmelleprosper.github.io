@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(../images/grey_wash_wall.png)
+}
+
+a{
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 250px;
+    text-decoration: none;
+    margin-right: 30px;
+	color:white;
+}
+
+h1 {
+	font-family: 'Kreon', serif;
+	color: white;
+	font-size: 25px;
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	color: white;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+a:hover {
+	color:orangered;
+}
+
+img {
+	margin-top: 10px;
+	text-align: center;
+	width:100%;
+}
+
+#tilte img{
+	width: 40%;
+}
+
