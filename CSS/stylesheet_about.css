@@ -34,3 +34,19 @@ a:hover {
 img {
 	margin-left: 75%;
 }
+
+div h1 {
+	font-size: 60px;
+	margin-left: 60%;
+}
+
+div li{
+	font-family: 'Scope One', serif;
+	margin-left: 60%;
+	color: white;
+}
+
+div img{
+	margin-left:60%;
+
+}
